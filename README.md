@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="assets/images/Sample Mobile App Design .jpg">
+<img src="assets/images/Sample Mobile App Design.jpg">
 
 ## Getting Started
 
