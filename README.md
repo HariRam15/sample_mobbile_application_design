@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="assets/images/SSample Mobile App Design.jpg">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
